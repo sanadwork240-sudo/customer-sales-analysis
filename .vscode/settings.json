@@ -7,7 +7,7 @@
             "port": 5432,
             "driver": "PostgreSQL",
             "name": "PG_local",
-            "database": "LEARN",
+            "database": "customer_sales_analysis",
             "username": "postgres",
             "password": "database@240"
         }
